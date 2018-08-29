@@ -1,0 +1,2 @@
+NEW LINE
+line 2
